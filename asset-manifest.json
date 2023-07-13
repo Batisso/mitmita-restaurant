@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/mitmita-restaurant/static/css/main.79cd6ff6.css",
+    "main.js": "/mitmita-restaurant/static/js/main.fcc42c15.js",
+    "static/media/meal2.mp4": "/mitmita-restaurant/static/media/meal2.ed561b41784858bb316c.mp4",
+    "static/media/mitSign3.png": "/mitmita-restaurant/static/media/mitSign3.dc167e0338253e30702e.png",
+    "static/media/bg.png": "/mitmita-restaurant/static/media/bg.3d421b1b5682e1b67deb.png",
+    "static/media/mitmitaWelcome.png": "/mitmita-restaurant/static/media/mitmitaWelcome.c93e6d3c1e81a79ca450.png",
+    "static/media/laurels2.png": "/mitmita-restaurant/static/media/laurels2.b2689e8a34b0ba56d04b.png",
+    "static/media/welcome.png": "/mitmita-restaurant/static/media/welcome.d724eb984456d9c97470.png",
+    "static/media/mitMarc.png": "/mitmita-restaurant/static/media/mitMarc.fd4caabc0dfed7f60145.png",
+    "static/media/menu.png": "/mitmita-restaurant/static/media/menu.a8287c67809afebcc280.png",
+    "static/media/findUs3.png": "/mitmita-restaurant/static/media/findUs3.cb2882cf216d86eb595c.png",
+    "static/media/overlaybg.png": "/mitmita-restaurant/static/media/overlaybg.165362eea72d1614ae28.png",
+    "static/media/mitG.png": "/mitmita-restaurant/static/media/mitG.5c612d7e2edbefa0819a.png",
+    "static/media/G.png": "/mitmita-restaurant/static/media/G.b571eb82e589ec305ec9.png",
+    "static/media/award02.png": "/mitmita-restaurant/static/media/award02.8bbdd51499739653b003.png",
+    "static/media/mitmitAmh.png": "/mitmita-restaurant/static/media/mitmitAmh.90ff6ae4a8a4bd8b43f0.png",
+    "static/media/award05.png": "/mitmita-restaurant/static/media/award05.48a7f5206184009dcb29.png",
+    "static/media/award01.png": "/mitmita-restaurant/static/media/award01.361a4bc44b59b55abeda.png",
+    "static/media/award03.png": "/mitmita-restaurant/static/media/award03.3f7ee934c17dccbd5fc6.png",
+    "static/media/sign.png": "/mitmita-restaurant/static/media/sign.9bf0bd90ad4caa17991f.png",
+    "static/media/mitmitaLogo.png": "/mitmita-restaurant/static/media/mitmitaLogo.de6d115377a2935ec558.png",
+    "index.html": "/mitmita-restaurant/index.html",
+    "static/media/spoon.svg": "/mitmita-restaurant/static/media/spoon.d079f43fbcf509908d3865293080795a.svg",
+    "main.79cd6ff6.css.map": "/mitmita-restaurant/static/css/main.79cd6ff6.css.map",
+    "main.fcc42c15.js.map": "/mitmita-restaurant/static/js/main.fcc42c15.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.79cd6ff6.css",
+    "static/js/main.fcc42c15.js"
+  ]
+}
